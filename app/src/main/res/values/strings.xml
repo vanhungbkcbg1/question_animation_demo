@@ -22,4 +22,7 @@
     </string-array>
     <string name="title_activity_htmlview">HTMLView</string>
     <string name="title_activity_animation">AnimationActivity</string>
+    <string name="title_activity_main_menu">MainMenu</string>
+    <string name="title_activity_choose_answer">ChooseAnswer</string>
+
 </resources>

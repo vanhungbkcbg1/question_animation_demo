@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="icon_android">&#xf17b;</string>
+    <string name="fa_close">&#xf00d;</string>
+    <string name="fa_check">&#xf00c;</string>
+</resources>
