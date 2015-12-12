@@ -24,5 +24,6 @@
     <string name="title_activity_animation">AnimationActivity</string>
     <string name="title_activity_main_menu">MainMenu</string>
     <string name="title_activity_choose_answer">ChooseAnswer</string>
+    <string name="title_activity_multi_choice">MultiChoice</string>
 
 </resources>

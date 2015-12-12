@@ -43,7 +43,7 @@ public class FontView extends TextView {
         }
 
         //Finally set the font
-        setBackgroundColor(Color.parseColor("#FFDBDB"));
+        setBackgroundColor(Color.parseColor("#E9F9EF"));
         setTypeface(font);
         setOnClickListener(onClickListener);
     }
